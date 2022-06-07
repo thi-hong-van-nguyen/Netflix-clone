@@ -2,11 +2,12 @@
 	color: #ffffff;
 	object-fit: contain;
 	height: 448px;
+	border: solid 1px none;
 }
 
 .banner__contents {
 	margin-left: 30px;
-	margin-top: 140px;
+	padding-top: 140px;
 	height: 190px;
 }
 
